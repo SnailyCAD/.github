@@ -1,6 +1,3 @@
-<p align="center">
-<img style="border-radius:8px" src="https://avatars.githubusercontent.com/u/91481975?v=4" height="150">
-</p>
 
 <h1 align="center">
 SnailyCAD
